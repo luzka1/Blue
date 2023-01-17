@@ -1,0 +1,15 @@
+@font-face {
+    font-family: poppins;
+    src: url(./fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: poppins-light;
+    src: url(./fonts/Poppins-Light.ttf);
+}
+*{
+    border: 0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: poppins;
+}
