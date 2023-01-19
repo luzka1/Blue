@@ -5,12 +5,9 @@ import Modalidades from './pages/Modalidades/index';
  
 function App() {
   return (
-    <Router>
-      <Routes>
-       <Route path='/' element={<Home />} /> 
-       <Route path='/Modalidades' element={<Modalidades />} /> 
-      </Routes>
-    </Router>
+    <>
+    <Home />
+    </>
   );
 }
 

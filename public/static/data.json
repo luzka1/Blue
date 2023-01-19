@@ -1,0 +1,4608 @@
+[
+    {
+    "lottery_date": "2023-01-18",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "4218",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4424",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "1071",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "2700",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "1113",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "3526",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "660",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "9988",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3462",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "8317",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "4578",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "4109",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "0454",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "578",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "3541",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "8056",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "6125",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2336",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "8159",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "8217",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "526",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "8116",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "8001",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "4803",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "2367",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "5969",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "9256",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "936",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTNRJ18",
+    "lottery_name": "PTN-RJ 18hs",
+    "result": [
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "0253",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "0510",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "4066",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "3868",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3462",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "2159",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "129",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "6524",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "6167",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "0217",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "5078",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "0633",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "8619",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "233",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "3309",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "6800",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "0414",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "2227",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "3770",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "6520",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "501",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "6686",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "9316",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "3470",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "3876",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "5386",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8734",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "286",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "1200",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9889",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "4714",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4598",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "5293",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "5694",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "866",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "5673",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "0885",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "6064",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "4735",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9791",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "7148",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "020",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "2592",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "5130",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "0335",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "5725",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "8830",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "2612",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "296",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "2178",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "4170",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "2932",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "6935",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "7347",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3562",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "082",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "4365",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1545",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "9194",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "6958",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "0710",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "2772",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "743",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "9801",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "2468",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "1951",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4799",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "6331",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "5350",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "188",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-17",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "8944",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "1370",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "9963",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "2862",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "0049",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "3188",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "253",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "7634",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "9841",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "0017",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "0376",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "1321",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9189",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "126",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "9343",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "7657",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5004",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "6168",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "7782",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5954",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "539",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "7893",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "2445",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "5428",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2350",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "7962",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "6078",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "298",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTNRJ18",
+    "lottery_name": "PTN-RJ 18hs",
+    "result": [
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "6682",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "6090",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8736",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "0430",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "1303",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "3241",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "693",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "8168",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "5281",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "7602",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0561",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "9268",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "0880",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "135",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "7269",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "1907",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "4465",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "2732",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "2814",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "9187",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "861",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "2319",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "3312",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "2827",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "6950",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "2459",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "7867",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "680",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "7464",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "6570",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "6026",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "5752",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "7699",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "3511",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "038",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "6133",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "5689",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8235",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "3606",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "2557",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "6220",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "890",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "8155",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1845",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "5525",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "3736",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "1217",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "0478",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "045",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "8884",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5002",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "9187",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "4566",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "8198",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "5837",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "437",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "9311",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "7725",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7215",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "4113",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "5518",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "3882",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "927",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4699",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1892",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "3522",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "0483",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "9672",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "0268",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "890",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-16",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "4352",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "4104",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "3215",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5256",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "7095",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4022",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "860",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "0748",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "2077",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "0388",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "7065",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "5409",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "5687",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "553",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2250",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "0487",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5954",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "1374",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "7904",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "7969",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "095",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "8867",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "2302",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "9329",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "2875",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "7182",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "0555",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "411",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "4670",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "0538",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "3892",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5354",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "3159",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7613",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "512",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "5867",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "7958",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "8071",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "2761",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "1597",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "6254",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "689",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "6686",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "0180",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "3355",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "1183",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "3715",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "5119",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "203",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "9617",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "0706",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0363",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "1068",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "2431",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "4185",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "789",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "2573",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "7322",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4323",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "1600",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "3116",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8934",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "839",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "5699",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4822",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "4429",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "6159",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "4747",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5856",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "480",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-15",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "2241",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "2502",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "4203",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "4204",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5504",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "8654",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "606",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "1381",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "9035",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "6038",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "6306",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "0846",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "3606",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "477",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "1122",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "7898",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "1773",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "9630",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "7180",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "7603",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "861",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "0675",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "7166",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "9480",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "0265",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "7937",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "5523",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "837",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "FEDBR19",
+    "lottery_name": "FED-BR 19hs",
+    "result": [
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "7005",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "4044",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "3948",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "4769",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "1634",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "1400",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "248",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "9847",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9091",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "0106",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "7034",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "2348",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "8426",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "519",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "3518",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0261",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "8508",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "7443",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0962",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "0692",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "918",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "9520",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9992",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "3437",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2134",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "4525",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "9608",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "123",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "2996",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "4928",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "1758",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "5413",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "3085",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "8180",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "764",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "7421",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "6688",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8736",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "8832",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1889",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "3566",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "631",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Pavão",
+    "grupo": "19",
+    "numero": "0676",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "2624",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7815",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "5527",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5304",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1946",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Pavão",
+    "grupo": "19",
+    "numero": "773",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "9976",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "1219",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "8764",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "5499",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "8033",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "3491",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "160",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "0190",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1847",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "7374",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "8202",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1292",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "8905",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "350",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "1361",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "7999",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "1927",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4023",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "0247",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "5557",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "886",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-14",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "5210",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "8893",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "5528",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "9779",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "7931",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "7341",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "332",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "8563",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "0339",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "1312",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "1452",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "0468",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2134",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "902",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "7458",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2949",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "8567",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "5066",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "4145",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "8185",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "993",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "3318",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "5000",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5853",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "4430",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "9114",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7715",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "590",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTNRJ18",
+    "lottery_name": "PTN-RJ 18hs",
+    "result": [
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "6564",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "5030",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "7268",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "3095",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "9299",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "1256",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "016",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "7055",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "1209",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "3411",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "9870",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1391",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2936",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "529",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "6237",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "0776",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "5231",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "2313",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1045",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5602",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "839",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "1584",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "4224",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "4651",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "5118",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "3895",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "9472",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "690",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "2973",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "3540",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "1393",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "0107",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "9722",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "7735",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "524",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "5416",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "0351",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "9877",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "9905",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "4804",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "0353",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "901",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "7972",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "2571",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "9284",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "3227",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "1671",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "4725",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "496",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "7020",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3764",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5254",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7614",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "8999",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2651",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "423",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1148",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "1907",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "6823",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "6113",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "7496",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "3487",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "189",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "5538",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "3840",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "9785",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5403",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "1668",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "6234",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "265",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-13",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "1266",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "8249",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "0330",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "3739",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "3440",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "7024",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "443",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "3023",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "4740",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "2776",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "5839",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "7122",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "3500",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "329",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "9943",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "7973",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "7018",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "3368",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "2611",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "0913",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "275",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "8306",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "1270",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "9933",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "0251",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "2069",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "1829",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "548",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTNRJ18",
+    "lottery_name": "PTN-RJ 18hs",
+    "result": [
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9091",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "4257",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "2000",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "8057",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "3817",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "7222",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "700",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "3186",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "5817",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "1073",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "8541",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "0368",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "8985",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "532",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "4326",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "8720",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3964",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "4847",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "2299",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "4156",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "722",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "0476",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "2212",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "6851",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5503",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "8937",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "3979",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "052",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7213",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "6098",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "5995",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "5792",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "2863",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "7961",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "984",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "6854",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "7290",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "0500",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "0251",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "2719",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7614",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "965",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "3284",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "5916",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "3643",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0564",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "6281",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "9688",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "428",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "1699",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1091",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "9048",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "2468",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "3213",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "7519",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "853",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "0934",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "4888",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "5883",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4100",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "7907",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "3712",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "565",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "7817",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2436",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "1432",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "5279",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1345",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "8309",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "042",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-12",
+    "lottery_type": "PTSP10",
+    "lottery_name": "SP10-SP 10hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "4017",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "9967",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "3029",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "2231",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "5654",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4898",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "037",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "CORRJ21",
+    "lottery_name": "COR-RJ 21hs",
+    "result": [
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "1943",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "1586",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "2059",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "2601",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "0877",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "9066",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "081",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "LKGO21",
+    "lottery_name": "LK-GO 21hs",
+    "result": [
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "7545",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "3972",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "9137",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "9492",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "4430",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "4576",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "968",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "PTNSP20",
+    "lottery_name": "PTN-SP 20hs",
+    "result": [
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "2189",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "0268",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "9113",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0761",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Touro",
+    "grupo": "21",
+    "numero": "7882",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "0213",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "586",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "FEDBR19",
+    "lottery_name": "FED-BR 19hs",
+    "result": [
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "6071",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "1291",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "7427",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "5012",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2650",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "2451",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "227",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "LKGO18",
+    "lottery_name": "LK-GO 18hs",
+    "result": [
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "0610",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "8064",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "9019",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "6846",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "9164",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "3703",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "919",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "LKGO16",
+    "lottery_name": "LK-GO 16hs",
+    "result": [
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "7906",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "5801",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "6594",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "2533",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "7727",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "0561",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "862",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "PTVRJ16",
+    "lottery_name": "PTV-RJ 16hs",
+    "result": [
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "2916",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "0259",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "4569",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "8060",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "9130",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "4934",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Gato",
+    "grupo": "14",
+    "numero": "755",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "BANSP16",
+    "lottery_name": "BAN-SP 16hs",
+    "result": [
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "6709",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "9897",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Veado",
+    "grupo": "24",
+    "numero": "4094",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1145",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3962",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Aguia",
+    "grupo": "02",
+    "numero": "5807",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "398",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "PTRJ14",
+    "lottery_name": "PT-RJ 14hs",
+    "result": [
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "0904",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "6550",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "6820",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "6911",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "9863",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Elefante",
+    "grupo": "12",
+    "numero": "1048",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "921",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "LKGO14",
+    "lottery_name": "LK-GO 14hs",
+    "result": [
+    {
+    "bicho": "Urso",
+    "grupo": "23",
+    "numero": "2792",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Carneiro",
+    "grupo": "07",
+    "numero": "6826",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "9519",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "7415",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Cobra",
+    "grupo": "09",
+    "numero": "6433",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Tigre",
+    "grupo": "22",
+    "numero": "2985",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "058",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "PTSP13",
+    "lottery_name": "PT-SP 13hs",
+    "result": [
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "1323",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "3673",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Leao",
+    "grupo": "16",
+    "numero": "3761",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Burro",
+    "grupo": "03",
+    "numero": "9209",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Macaco",
+    "grupo": "17",
+    "numero": "2165",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Camelo",
+    "grupo": "08",
+    "numero": "0131",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "859",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "LKGO11",
+    "lottery_name": "LK-GO 11hs",
+    "result": [
+    {
+    "bicho": "Pavao",
+    "grupo": "19",
+    "numero": "5376",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "8671",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Galo",
+    "grupo": "13",
+    "numero": "6350",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Cavalo",
+    "grupo": "11",
+    "numero": "2041",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Avestruz",
+    "grupo": "01",
+    "numero": "7701",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Coelho",
+    "grupo": "10",
+    "numero": "0139",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "615",
+    "posicao": "7º"
+    }
+    ]
+    },
+    {
+    "lottery_date": "2023-01-11",
+    "lottery_type": "PTMRJ11",
+    "lottery_name": "PTM-RJ 11hs",
+    "result": [
+    {
+    "bicho": "Cachorro",
+    "grupo": "05",
+    "numero": "4817",
+    "posicao": "1º"
+    },
+    {
+    "bicho": "Porco",
+    "grupo": "18",
+    "numero": "2972",
+    "posicao": "2º"
+    },
+    {
+    "bicho": "Vaca",
+    "grupo": "25",
+    "numero": "4500",
+    "posicao": "3º"
+    },
+    {
+    "bicho": "Peru",
+    "grupo": "20",
+    "numero": "2177",
+    "posicao": "4º"
+    },
+    {
+    "bicho": "Jacare",
+    "grupo": "15",
+    "numero": "1557",
+    "posicao": "5º"
+    },
+    {
+    "bicho": "Cabra",
+    "grupo": "06",
+    "numero": "6023",
+    "posicao": "6º"
+    },
+    {
+    "bicho": "Borboleta",
+    "grupo": "04",
+    "numero": "316",
+    "posicao": "7º"
+    }
+    ]
+    }
+    ]

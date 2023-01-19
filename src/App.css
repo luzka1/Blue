@@ -6,6 +6,10 @@
     font-family: poppins-light;
     src: url(./fonts/Poppins-Light.ttf);
 }
+@font-face {
+    font-family: ubuntu;
+    src: url(./fonts/Ubuntu-Medium.ttf);
+}
 *{
     border: 0;
     box-sizing: border-box;
