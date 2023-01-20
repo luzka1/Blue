@@ -38,16 +38,18 @@ footer{
     color: rgba(198, 214, 255, 1);
 }
 .btns-footer .item{
+    transition: 200ms all;
 }
 .btns-footer .item:hover{
     cursor: pointer;
+    color: rgb(255, 255, 255);
 }
 .simbolo-maior-idade{
     position: absolute;
     left: 85%;
     width: 2.5rem;
     height: 2.5rem;
-    background-image: url(./18+.svg);
+    background-image: url(../../assets/18+.svg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -143,7 +145,7 @@ footer{
         .btns-footer .item{
             background-color: rgba(25, 35, 148, 1);
             width: 100%;
-            height: 5vh;
+            height: 3vh;
             display: flex;
             align-items: center;
             justify-content: center;

@@ -1,5 +1,5 @@
 import './styles.css';
-import SimboloMaiorIdade from './18+.svg';
+
 
 function Footer() {
     return (
@@ -30,6 +30,7 @@ function Footer() {
                     </div>
                 </div>
             </footer>
+
         </>
     )
 }
